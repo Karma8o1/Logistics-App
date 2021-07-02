@@ -1,0 +1,1 @@
+keytool -exportcert -keystore ./android/app/debug.keystore -list -v
